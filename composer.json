@@ -1,5 +1,5 @@
 {
-  "name": "paytm/paytm-pg",
+  "name": "adnanhussainturki/paytm-pg",
   "description": "Paytm PHP Library",
   "keywords": ["Paytm","Client","SDK","PHP"],
   "authors": [
@@ -15,7 +15,7 @@
     "ext-curl": "*",
     "ext-openssl": "*",
     "netresearch/jsonmapper": "4.0",
-    "monolog/monolog": "^1.24"
+    "monolog/monolog": "^2.0"
   },
   "autoload": {
     "psr-4": {
